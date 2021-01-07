@@ -6,17 +6,17 @@
 	"logo" : "https://f002.backblazeb2.com/file/jsuforum-upload/optimized/1X/cff2835c1652bb57a18aac42a3eee34b51cd9b89_2_1380x386.gif",
 	"env": {
 		"BOT_TOKEN": {
-			"description": "Get from Telegram Botfather"
+			"description": "1443024577:AAFt4_1PdBjnaAy9ezN-G53aHmY84NUgIZM"
 		},
 		"USER_ID": {
-			"description": "get from telegram get_id_bot"
+			"description": "742763102"
 		},
 		"DB_CONNECT_METHOD": {
 			"description": "DB Connect Method",
 			"value": "mongodb+srv"
 		},
 		"DB_ADDRESS": {
-			"description": "MongoDB Host Address"
+			"description": "cluster0.mmwpy.mongodb.net"
 		},
 		"DB_PORT": {
 			"description": "MongoDB Port, Default is 27017",
@@ -27,10 +27,10 @@
 			"value": "iCopy"
 		},
 		"DB_USERNAME": {
-			"description": "MongoDB Username"
+			"description": "tuvinh"
 		},
 		"DB_PASS": {
-			"description": "MongoDB Password"
+			"description": "tuvinh"
 		},
 		"LANGUAGE": {
 			"description": "English by Default Support cn and jp",
@@ -68,10 +68,10 @@
 			"value": "/app/iCopy/config/rclone.conf"
 		},
 		"SA_ZIP_URL": {
-			"description": "Service Accounts ZIP URL.It Should be Zipped Such that it should have a folder named accounts with SA in it "
+			"description": "https://raw.githubusercontent.com/thinhplust/jdownloads/main/accounts.zip"
 		},
 		"TEAM_DRIVE_ID": {
-			"description": "Destination Team Drive ID"
+			"description": "0AI4582wpDjlIUk9PVA"
 		},
 		"RUN_ARGS": {
 			"description": "Only Change this if U Know",
